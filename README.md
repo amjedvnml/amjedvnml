@@ -47,7 +47,7 @@
   <a href="https://github.com/amjedvnml"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
   <a href="https://www.linkedin.com/in/amjedbinyoosuf"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
   <a href="https://www.instagram.com/amj.ey_i"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
-  <a href="https://wa.me/9995219061"></a>
+  <a href="https://wa.me/9995219061"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/></a>
 </p>
 
 ---
