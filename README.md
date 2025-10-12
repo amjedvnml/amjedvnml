@@ -1,6 +1,6 @@
-# 👋 Hey dudethere, I'm Amjed Bin Yoosuf!
+# 👋 Hey dude, I'm Amjed Bin Yoosuf!
 
-> 🚀 Frontend Developer | React Enthusiast | Member of **Team Comrade**  
+> 🚀 Frontend Developer | React Enthusiast | Tailwind CSS Explorer  
 > Turning ideas into interactive experiences 💡  
 
 ---
@@ -24,8 +24,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sugu&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sugu&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amjedvnml&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amjedvnml&theme=radical" height="165"/>
 </p>
 
 ---
@@ -44,11 +44,11 @@
 
 ### 📬 Connect With Me
 <p align="left">
-  <a href="https://github.com/sugu"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
-  <a href="https://www.linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-  <a href="https://www.instagram.com"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
+  <a href="https://github.com/amjedvnml"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
+  <a href="https://www.linkedin.com/in/amjedbinyoosuf"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+  <a href="https://www.instagram.com/amj.ey_i"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
 </p>
 
 ---
 
-⭐️ *Made with passion and caffeine by Sugu.*
+⭐️ *Made with passion and caffeine by Amjed Bin Yoosuf.*
