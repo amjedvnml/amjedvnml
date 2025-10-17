@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=38&pause=800&color=FF007F&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Amjed+Bin+Yoosuf!;Frontend+Developer+💻;Crafting+clean+%26+modern+web+experiences.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=38&pause=800&color=FF007F&center=true&vCenter=true&width=600&lines=Hey+Dude%2C+I'm+Amjed+Bin+Yoosuf!;Frontend+Developer.)](https://git.io/typing-svg)
 
 <h3 align="center">Frontend Developer passionate about creating sleek, user-focused, and responsive interfaces 🚀</h3>
 
@@ -46,6 +46,7 @@
   <a href="https://github.com/amjedvnml"><img src="https://skillicons.dev/icons?i=github" height="30"/></a>
   <a href="https://www.linkedin.com/in/amjedbinyoosuf"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
   <a href="https://www.instagram.com/amj.ey_i"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
+  <a href="mailto:amjedvnml@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
   <a href="https://wa.me/9995219061"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/></a>
 </p>
 
