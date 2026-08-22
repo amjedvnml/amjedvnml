@@ -15,7 +15,7 @@
 
 ### About Me
 
-- Currently working at **Inkuit** — bringing creative ideas to life
+- Currently working at **Nexios** — bringing creative ideas to life
 - Learning **React JS**, **Tailwind CSS**, and **Backend Development**
 - Exploring **Next.js**, **Node.js**, and **AI-driven web apps**
 - Building experiences that make people's lives easier
