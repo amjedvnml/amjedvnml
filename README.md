@@ -1,8 +1,5 @@
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=38&pause=800&color=FF007F&center=true&vCenter=true&width=700&lines=Hey+Dude%2C+I'm+Amjed+Bin+Yoosuf!;Frontend+Developer;Building+Cool+Web+Experiences+🚀"
-    alt="Typing SVG"
-  />
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=FF007F&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Amjed+Bin+Yoosuf;A+Full+Stack+Web+Developer)](https://github.com/amjedvnml)
 </p>
 
 <h3 align="center">
