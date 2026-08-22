@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=40&letterSpacing=&pause=800&color=087D00CC&center=true&vCenter=true&width=435&lines=Hi+I'm+Amjed+Vanimel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=40&letterSpacing=&pause=800&color=FF007F&center=true&vCenter=true&width=435&lines=Hi+I'm+Amjed+Vanimel)](https://git.io/typing-svg)
 
 <h3 align="center">
   Frontend Developer passionate about creating sleek, user-focused, and responsive interfaces 🚀
@@ -13,18 +13,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 Currently working at **Inkuit** — bringing creative ideas to life
-- 🌱 Learning **React JS**, **Tailwind CSS**, and **Backend Development**
-- 🧠 Exploring **Next.js**, **Node.js**, and **AI-driven web apps**
-- 🎯 Building experiences that make people's lives easier
-- 💬 Ask me about **React**, **Tailwind CSS**, and **Frontend Development**
-- ⚡ Always learning, building, and experimenting with new ideas
+- Currently working at **Inkuit** — bringing creative ideas to life
+- Learning **React JS**, **Tailwind CSS**, and **Backend Development**
+- Exploring **Next.js**, **Node.js**, and **AI-driven web apps**
+- Building experiences that make people's lives easier
+- Ask me about **React**, **Tailwind CSS**, and **Frontend Development**
+- Always learning, building, and experimenting with new ideas
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img
@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img
@@ -55,7 +55,7 @@
 
 ---
 
-### 💻 Most Used Languages
+### Most Used Languages
 
 <p align="center">
   <img
@@ -66,7 +66,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <p align="center">
 
@@ -103,5 +103,5 @@
 ---
 
 <p align="center">
-  ⭐ <i>Made with coffee ☕, code 💻, and curiosity 🚀 by Amjed Bin Yoosuf.</i>
+   <i>Made with coffee, code, and curiosity by Amjed Bin Yoosuf.</i>
 </p>
