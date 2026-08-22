@@ -1,8 +1,4 @@
-<p align="center">
- [![Typing SVG](https://readme-typing-svg.demolab.com?
- font=Poppins&size=38&pause=800&color=FF007F&center=true&vCenter=true&width=600&lines=Hey+Dude%2C+I'm+Amjed+Bin+Yoosuf!;Frontend+Developer.)]
- (https://git.io/typing-svg)
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=40&letterSpacing=&pause=800&color=087D00CC&center=true&vCenter=true&width=435&lines=Hi+I'm+Amjed+Vanimel)](https://git.io/typing-svg)
 
 <h3 align="center">
   Frontend Developer passionate about creating sleek, user-focused, and responsive interfaces 🚀
